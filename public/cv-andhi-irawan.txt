@@ -1,0 +1,20 @@
+ANDHI IRAWAN
+Full-Stack Developer
+Jakarta, Indonesia | info@andhiirawan.my.id
+
+PROFILE
+I build digital products with care for the details — from clear interfaces to foundations ready to grow. Focused on turning complex problems into useful, intuitive web experiences.
+
+CORE EXPERTISE
+PHP · React · Node.js · Next.js · PostgreSQL · Design systems
+
+SELECTED CAPABILITIES
+- Full-stack web application development
+- Product interface design and implementation
+- Responsive, accessible frontend systems
+- API integration and delivery workflows
+
+LANGUAGES
+Indonesian · English
+
+Note: This starter CV contains editable sample portfolio content. Replace the contact and career details with verified personal information before publishing.

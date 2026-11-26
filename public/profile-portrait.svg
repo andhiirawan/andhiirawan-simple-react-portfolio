@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 520" role="img" aria-labelledby="title desc">
+  <title id="title">Ilustrasi potret profil Andhi</title>
+  <desc id="desc">Ilustrasi bergaya editorial seorang pengembang perangkat lunak berkemeja biru di latar mint.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#edf5f1"/><stop offset="1" stop-color="#b7d4c9"/></linearGradient>
+    <linearGradient id="shirt" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#647d90"/><stop offset="1" stop-color="#344c60"/></linearGradient>
+    <linearGradient id="skin" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d79b78"/><stop offset="1" stop-color="#b9795d"/></linearGradient>
+    <filter id="shadow" x="-.3" y="-.3" width="1.6" height="1.8"><feGaussianBlur stdDeviation="16"/></filter>
+  </defs>
+  <rect width="640" height="520" fill="url(#bg)"/>
+  <circle cx="512" cy="108" r="138" fill="#fff" opacity=".23"/>
+  <circle cx="123" cy="384" r="185" fill="#86baa5" opacity=".2"/>
+  <ellipse cx="332" cy="485" rx="176" ry="25" fill="#344d42" opacity=".2" filter="url(#shadow)"/>
+  <path d="M130 520c12-102 53-167 136-190l65-20 107 26c69 19 105 78 121 184H130Z" fill="url(#shirt)"/>
+  <path d="m274 326 57 57 67-63-7 73-55 50-63-54 1-63Z" fill="#f4f1e9"/>
+  <path d="M286 299h97v81c0 34-23 59-49 59s-48-25-48-59v-81Z" fill="url(#skin)"/>
+  <path d="M266 157c8-52 43-81 96-81 61 0 98 41 98 109v72c0 74-45 122-104 122-60 0-104-48-104-120v-78c0-9 5-18 14-24Z" fill="url(#skin)"/>
+  <path d="M250 224c-12-47-11-100 9-137 22-42 67-66 119-64 54 2 91 25 111 69 15 34 17 87 5 130l-13 3-8-75c-21-6-46-20-65-40-23 25-73 44-144 48l-3 65-11 1Z" fill="#202b29"/>
+  <path d="M269 202c22-4 45-10 67-19" fill="none" stroke="#242f2c" stroke-width="8" stroke-linecap="round"/>
+  <path d="M364 183c18 3 32 9 44 17" fill="none" stroke="#242f2c" stroke-width="8" stroke-linecap="round"/>
+  <path d="M286 222c12-9 27-10 39-4" fill="none" stroke="#302923" stroke-width="5" stroke-linecap="round"/>
+  <path d="M371 220c12-7 25-6 36 2" fill="none" stroke="#302923" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="307" cy="232" r="4" fill="#26322e"/><circle cx="389" cy="233" r="4" fill="#26322e"/>
+  <path d="M341 229c-4 20-7 36-3 43 4 5 10 7 17 5" fill="none" stroke="#a96f55" stroke-width="4" stroke-linecap="round"/>
+  <path d="M321 288c15 13 39 14 57 0" fill="none" stroke="#874e44" stroke-width="5" stroke-linecap="round"/>
+  <rect x="270" y="211" width="57" height="38" rx="12" fill="none" stroke="#35454a" stroke-width="5"/><rect x="370" y="211" width="57" height="38" rx="12" fill="none" stroke="#35454a" stroke-width="5"/>
+  <path d="M327 225h43" stroke="#35454a" stroke-width="5"/>
+  <path d="m192 390 85-58 55 51-75 137H139c9-59 19-99 53-130Z" fill="#506b7e"/>
+  <path d="m451 378-74-51-52 55 81 138h131c-9-61-38-113-86-142Z" fill="#40596d"/>
+  <path d="M230 401c52 10 99 20 151 5 29-8 52-5 72 11l-19 39c-56 25-153 28-224-2l20-53Z" fill="#c48868"/>
+  <path d="m329 382-25 35 28 21 29-22-32-34Z" fill="#f5f4ec"/>
+  <circle cx="543" cy="433" r="7" fill="#fff" opacity=".5"/><circle cx="91" cy="151" r="5" fill="#fff" opacity=".55"/>
+</svg>
