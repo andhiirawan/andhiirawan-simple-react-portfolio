@@ -95,5 +95,5 @@ Untuk pertanyaan atau peluang kolaborasi, gunakan bagian **Kontak** di website a
 ---
 
 <p align="center">
-  Dibuat dengan <code>React</code>, <code>TypeScript</code>, dan perhatian pada detail oleh <b>Andhi Irawan</b>.
+  Dibuat dengan <code>React</code>, <code>TypeScript</code>, dan ❤️ <b>Andhi Irawan</b>.
 </p>
